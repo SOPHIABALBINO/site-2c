@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(226, 182, 252);
+
+}
+.primeiraparte{
+background-color: rgb(183, 145, 218);
+
+}
+.foto{ width: 500px;
+
+
+}
+body{
+    background-color: a cor que voce quer pra pagina toda aqui;
+    text-align: center;
+    }
+    
+    
+    .primeiraparte{
+        background-color: a cor que você quer aqui;
+        padding: 150px 100px;
+    }
+    
+    .tituloum{
+        font-size: 50px;
+    }
+    
+    .paragrafos{
+        display: inline-block;
+        font-size:30px;
+    }
+    
+    .fototurma{
+        width: 350px;
+        height: 250px;
+    }
+    
+    .estudantes{
+        text-align: center;
+        background-color: a cor que voce quer aqui;
+    }
+    
+    .todosestudantes{
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+    }
+    
+    
+    footer{
+    text-align: center;
+    }
+    
